@@ -49,8 +49,8 @@
 ## I'm Remmos 
 I like to make stuff. 
 You can check out some of the stuff I have made below like:
-- Blerch (Pixel art editor)
-- WASCII (Web based video to ASCII)
+- Blerch (Pixel art editor) (Profile picture made with this)
+- WASCII (Web based video to ASCII) (ASCII art above from this)
 - Kap (Keyboard driven Windows UI navigation tool)
 - and more!!
 
